@@ -4,3 +4,4 @@ git clone <URL_du_repository>
 git add .
 git commit -m "message de commit"
 git push origin <nom_de_la_branche>
+git pull origin <nom_de_la_branche>
